@@ -4,7 +4,7 @@ SISSVoc-Lightning-Deployment for Linux (Ubuntu tested)
 **We aim to make a fast and repeatable process for deploying SISSVoc with your vocabularies**
 
 ### Pre-req's
- *Your vocabulary  .ttl file ( example: agift.ttl)
+ * Your vocabulary  .ttl file ( example: agift.ttl)
  
 ## Process
 * If you are starting from scratch then:
