@@ -1,4 +1,4 @@
-SISSVoc-Lightning-Deployment
+SISSVoc-Lightning-Deployment for Linux (Ubuntu tested)
 ============================
 
 **We aim to make a fast and repeatable process for deploying SISSVoc with your vocabularies**
@@ -8,7 +8,8 @@ SISSVoc-Lightning-Deployment
  
 ## Process
 * If you are starting from scratch then:
-    - Clone this dir
+    - Clone this dir or download it
+    - Navigate in to the ` SISSVoc-Lightning-Deployment ` dir
     - Then run step 1 with bash command ` bash step1.sh '
     - Follow the prompts
 
@@ -16,7 +17,8 @@ SISSVoc-Lightning-Deployment
 
  * if you already have SISSVoc deployed then:
     - Clone this dir
-    - Move ` step2and3.sh ` to the ` .../sissvoc-package/  ` dir
+    - Navigate in to the ` SISSVoc-Lightning-Deployment ` dir
+    - Move ` step2and3.sh ` to the ` .../sissvoc-package/  ` dir that you previously installed
     - Run ` bash step2and3.sh `
     - Follow the prompts
     
