@@ -1,7 +1,7 @@
 SISSVoc-Lightning-Deployment
 ============================
 
-** We aim to make a fast and repeatable process for deploying SISSVoc with your vocabularies**
+**We aim to make a fast and repeatable process for deploying SISSVoc with your vocabularies**
 
 ### Pre-req's
  *Your vocabulary  .ttl file ( example: agift.ttl)
@@ -12,7 +12,7 @@ SISSVoc-Lightning-Deployment
     - Then run step 1 with bash command ` bash step1.sh '
     - Follow the prompts
 
-** otherwise **
+**otherwise**
 
  * if you already have SISSVoc deployed then:
     - Clone this dir
